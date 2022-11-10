@@ -1,0 +1,1 @@
+console.log("Pritish is a peaceful soul")
